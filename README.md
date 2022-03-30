@@ -7,7 +7,7 @@ Not gonna lie, I had a nice time making it ! Not quite sure if this can be consi
 
 Feel free to check it out :D
 
-REQUIRES:
+REQUIREMENT:
 -Tkinter
 -OpenCV-Python
 -Numpy
